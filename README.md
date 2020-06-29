@@ -5,3 +5,5 @@ Learn about artificial neural networks and how they're being used for machine le
 This course contains the same content presented on Coursera beginning in 2013. It is not a continuation or update of the original course. It has been adapted for the new platform.
 
 Please be advised that the course is suited for an intermediate level learner - comfortable with calculus and with experience programming (Python).
+
+<a href=“https://tracking.gitads.io/?repo=neural-nets”><img src="https://images.gitads.io/neural-nets" alt=“GitAds”/></a>
