@@ -6,4 +6,8 @@ This course contains the same content presented on Coursera beginning in 2013. I
 
 Please be advised that the course is suited for an intermediate level learner - comfortable with calculus and with experience programming (Python).
 
+**Notes**
+
+**neural-nets** is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
+
 <a href="https://tracking.gitads.io/?repo=neural-nets"><img src="https://images.gitads.io/neural-nets" alt=“GitAds”/></a>
